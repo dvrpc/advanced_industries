@@ -1,0 +1,51 @@
+NAICS,Category,Industry Title
+3241,Manufacturing,Petroleum and Coal Products 
+3251,Manufacturing,Basic Chemicals 
+3252,Manufacturing,"Resins and Synthetic Rubbers, Fibers, and Filaments"
+3253,Manufacturing,"Pesticides, Fertilizers, and Other Agr. Chemicals"
+3254,Manufacturing,Pharmaceuticals and Medicine 
+3259,Manufacturing,Other Chemical Products 
+3271,Manufacturing,Clay Products
+3279,Manufacturing,Other Nonmetallic Mineral Products 
+3311,Manufacturing,"Iron, Steel, and Ferroalloys "
+3313,Manufacturing,Aluminum Production and Processing
+3315,Manufacturing,Foundries
+3331,Manufacturing,"Agr., Construction, and Mining Machinery "
+3332,Manufacturing,Industrial Machinery 
+3333,Manufacturing,Commercial and Service Industry Machinery 
+3336,Manufacturing,"Engines, Turbines, and Power Trans. Equipment "
+3339,Manufacturing,Other General Purpose Machinery 
+3341,Manufacturing,Computers and Peripheral Equipment 
+3342,Manufacturing,Communications Equipment 
+3343,Manufacturing,Audio and Video Equipment 
+3344,Manufacturing,Semiconductors and Other Electronic Components 
+3345,Manufacturing,"Navigation, Measurement, and Control Instruments "
+3346,Manufacturing,Magnetic and Optical Media
+3351,Manufacturing,Electric Lighting Equipment 
+3352,Manufacturing,Household Appliances
+3353,Manufacturing,Electrical Equipment 
+3359,Manufacturing,Other Electrical Equipment and Components 
+3361,Manufacturing,Motor Vehicles
+3362,Manufacturing,Motor Vehicle Bodies and Trailers
+3363,Manufacturing,Motor Vehicle Parts 
+3364,Manufacturing,Aerospace Products and Parts 
+3365,Manufacturing,Railroad Rolling Stock 
+3366,Manufacturing,Ship and Boat Building
+3369,Manufacturing,Other Transportation Equipment 
+3391,Manufacturing,Medical Equipment and Supplies 
+3399,Manufacturing,Other Miscellaneous 
+2111,Energy,Oil and Gas Extraction
+2122,Energy,Metal Ore Mining
+2211,Energy,"Electric Power Generation, Trans., and Distribution"
+5112,Services,Software Publishers
+5152,Services,Cable and Other Subscription Programming
+5172,Services,Wireless Telecommunications Carriers
+5179,Services,Other Telecommunications
+5174,Services,Satellite Telecommunications
+5182,Services,Data Processing and Hosting
+5191,Services,Other Information 
+5413,Services,Architecture and Engineering
+5415,Services,Computer Systems Design 
+5416,Services,"Mgmt., Scientific, and Technical Consulting"
+5417,Services,Scientific Research and Development
+6215,Services,Medical and Diagnostic Laboratories
